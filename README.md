@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Keinerdmb/Keinerdmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!Im Keiner Martinez
+
+*I'm software Developer in training.*
+*I'm Currently learning a Python.*
+
+I'm passionate about video game.
 
 Here are some ideas to get you started:
 

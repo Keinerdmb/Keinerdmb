@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-<!Im Keiner Martinez
+![alt text](image.png)
 
-*I'm software Developer in training.*
-*I'm Currently learning a Python.*
+**I'm Keiner Martinez**
 
-I'm passionate about video game.
+# About me:
 
-Here are some ideas to get you started:
+* *I'm a software Developer in training.*
+* *I'm Currently learning Python.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* *I'm passionate about video games.*
+* *I'm passionate about listening to music.*
+
+* *Did you know that may favorite color is Blue?*
+
+* *You can tell me Kene if you want*
+
+
+
